@@ -16,7 +16,7 @@ Delete current line
   - Mac: ```command + backspace```
 
 Multiple Cursors
-  - Mac: ``` Double ^(control) + up/down arrows```
+  - Mac: ``` Double option + up/down arrows```
 
 ### Execution 
 Run current file ```control + shift + R```
