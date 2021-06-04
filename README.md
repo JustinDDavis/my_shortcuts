@@ -4,7 +4,9 @@
 
 
 ### File Navigation
-Go to specific line number ```ctrl + g```
+Go to specific line number 
+  - Windows: ```ctrl + g```
+  - Mac: ```command + l```
 
 Move cursor to next line ```ctrl + shift + enter```
  
