@@ -11,7 +11,9 @@ Go to specific line number
 Move cursor to next line ```ctrl + shift + enter```
  
 ### Text Editing
-Delete current line ```ctrl + backspace``` or ```command + backspace```
+Delete current line 
+  - Windows: ```ctrl + backspace``` 
+  - Mac: ```command + backspace```
 
 ### Execution 
 Run current file ```control + shift + R```
