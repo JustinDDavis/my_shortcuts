@@ -15,5 +15,8 @@ Delete current line
   - Windows: ```ctrl + backspace``` 
   - Mac: ```command + backspace```
 
+Multiple Cursors
+  - Mac: ``` Double ^(control) + up/down arrows```
+
 ### Execution 
 Run current file ```control + shift + R```
