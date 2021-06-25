@@ -25,4 +25,4 @@ Run current file ```control + shift + R```
 ## Terminal Items
 
 ### Screen
-Ended up just sticking with Iterm functinoalites. 
+Ended up just sticking with iTerm2 functionalities. 
