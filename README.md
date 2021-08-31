@@ -27,3 +27,13 @@ Run current file ```control + shift + R```
 ### Screen
 Ended up just sticking with iTerm2 functionalities. 
 And... something more I need to read on [iTerm2 integration with tmux](https://medium.com/@gveloper/using-iterm2s-built-in-integration-with-tmux-d5d0ef55ec30).
+
+## GitLab CI (glab)
+
+### Installation
+[Glab Repo](https://github.com/profclems/glab)
+  > brew install glab
+
+### Authenticate
+  > glab auth login --hostname salsa.debian.org --stdin < myaccesstoken.txt
+
